@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice_Game</string>
+    <string name="cpu_dice">This Dice belongs to the CPU</string>
+    <string name="player_dice">This Dice belongs to the Player</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="lower">LOWER</string>
+    <string name="higher">HIGHER</string>
+
+    <string name="linear_layout">Result</string>
+</resources>
